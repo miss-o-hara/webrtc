@@ -17,6 +17,7 @@ Prerequirements for compilation:
 1. checkout source code from github repository: https://github.com/samsungaccelerator/team15-android-codec
 
 Compilation:
+
 Run build.sh from the root of the repository with one of the follwoing arguments:
 
       clean      
