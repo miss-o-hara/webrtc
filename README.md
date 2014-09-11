@@ -26,4 +26,4 @@ Run build.sh from the root of the repository with one of the follwoing arguments
       release    
           Build in release mode
 
-If the build is successful, the compiled library will be located in out/_<Selected mode>_ directory. 
+If the build is successful, the compiled library will be located in out/'<Selected mode>' directory. 
